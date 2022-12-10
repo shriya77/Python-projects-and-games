@@ -1,2 +1,2 @@
 # Python-projects
-Other python projects e.g. apps
+Includes simple apps and games :)
